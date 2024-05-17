@@ -6,7 +6,7 @@
 
 <h3>Herramientas o conocimientos aplicados</h3>
 <ul>
-  <il>HTML</il>
-  <il>CSS</il>
-  <il>JavaScript</il>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
 </ul>
